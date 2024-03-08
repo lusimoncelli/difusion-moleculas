@@ -1,5 +1,6 @@
-# Modelo de difusión de moléculas
-Modelo simple de difusión de moléculas, basado en los siguientes principios:
-- El movimiento es aleatorio y pasivo
-- Las partículas se mueven de la zona más concentrada a la menos concentrada
-- La distribución en el espacio es normal
+# Simple Molecular Difussion Model
+
+Simple molecular difussion model, based on the following principles:
+- Movement is random and passive
+- Particles move from the zone with a higher concentration to the lower one
+- Space distribution is normal
